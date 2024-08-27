@@ -1,0 +1,1 @@
+Mengembangkan situs web "Dee Plant" yang menampilkan informasi tentang tanaman menggunakan HTML, CSS, dan sedikit JavaScript. Berinisiatif membagi tugas kelompok berdasarkan kekuatan anggota dan membantu yang lain saat menghadapi tantangan.
